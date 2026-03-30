@@ -218,6 +218,7 @@ body .container-fluid article { padding: 3% 2%; }
 .film12 aside { background-image: url("../images/12-films.jpg"); }
 
 .schedule-box {
+  color: black;
   background: #f7f5f1;
   border-left: 4px solid #e96b55;
   border-radius: 12px;
